@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251035916369",
+    "project_id": "licenta-cebbf",
+    "storage_bucket": "licenta-cebbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251035916369:android:bf6b38ce98bbcd3496c070",
+        "android_client_info": {
+          "package_name": "com.example.screentime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251035916369-hrc5r3s7mdlqfatk705k3odfcd7u3grq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SLW0kB2fS9y14G2gyKIvTZ1VAVLoASc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251035916369-hrc5r3s7mdlqfatk705k3odfcd7u3grq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ScreenTime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="add_genre_values">
+        <item>None</item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>SF</item>
+        <item>Thriller-Mistery</item>
+        <item>Western</item>
+    </string-array>
+
+    <string-array name="genre_values">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>SF</item>
+        <item>Thriller-Mistery</item>
+        <item>Western</item>
+    </string-array>
+
+    <string-array name="statistics">
+        <item>Show movies by genre</item>
+        <item>Show movies by rating</item>
+    </string-array>
+
+    <string name="release_date">Release date: %1$s </string>
+    <string name="rating_value">Rating: %1$s/5 </string>
+    <string name="rating_value_popup">My rating: %1$s/5 </string>
+    <string name="vote_average">Vote average: %1$s </string>
+    <string name="user_movie_list">%1$s movie list: </string>
+    <string name="rating_average">Rating average: %1$s/5 </string>
+    <string name="genre">Genre: %1$s </string>
+    <string name="no_movies">No. movies: %1$s </string>
+    <string name="title_activity_video">Video</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

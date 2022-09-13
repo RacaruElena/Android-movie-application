@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/facultate/aplicatie - Copy (2) - Copy/app/src/main/res/layout/fragment_following.xml" value="0.23333333333333334" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable-v24/button_wh_normal.xml" value="0.2601851851851852" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable-v24/theme_background.xml" value="0.2601851851851852" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/background_btn.xml" value="0.21666666666666667" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/bottom_nav_bar_background.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/bottom_navigation_bar_selector.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/button_background.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_delete2.xml" value="0.2601851851851852" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_following.xml" value="0.1638888888888889" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/ic_video_player_movie_svgrepo_com.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/movie_in_theatre.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/note_text_background.xml" value="0.21666666666666667" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/drawable/statistics_btn.xml" value="0.2601851851851852" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_add_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_add_movie_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_add_to_watchlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_complete_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_display_recommendations.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_display_user_movies_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_edit_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_favourite_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_get_recommendations.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_movie_details_popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_pie_chart.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_reset_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/activity_watchlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/category_recommendation_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/following_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/following_list_movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_blank.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_complete_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_genres.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_get_recommendations.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_lists.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_statistics.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/fragment_watchlist.xml" value="0.178125" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/listview_text_color_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/movie_in_theatre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/movies_lists_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/my_movie_list_item_layout.xml" value="0.264" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/recommended_movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/top_movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/trailer_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/layout/watchlist_movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/menu/home_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie - Copy (2)/app/src/main/res/menu/top_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/ic_delete_svgrepo_com.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/ic_three_dots_vertical_svgrepo_com.xml" value="0.2703125" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/drawable/note_text_background.xml" value="0.22685185185185186" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_add_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_add_movie_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_complete_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_display_movies_by_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_display_recommendations.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_display_user_movies_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_get_recommendations.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_movie_details_popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_movie_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_movies_by_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_pie_chart.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_show_statistics.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_top_movies_by_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_video.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/activity_video2.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/category_recommendation_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/following_adapter.xml" value="0.264" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_complete_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_following.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_genres.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_lists.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/fragment_statistics.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/movie_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/movies_lists_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/my_movie_list_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/layout/trailer_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/menu/add_movie_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/menu/following_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/aplicatie/app/src/main/res/menu/top_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_add_movie.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_add_movie_genre.xml" value="0.25" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_display_movies_by_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_favourite_list.xml" value="0.25" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_movie_details_popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_movie_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_movies_by_genre.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/activity_watchlist.xml" value="0.25" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/fragment_lists.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/movie_details_popup.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/movie_layout.xml" value="0.264" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/movies_lists_adapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/layout/my_movie_list_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/menu/add_movie_menu.xml" value="0.25" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/facultate/licenta/aplicatie/app/src/main/res/menu/top_nav_menu.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

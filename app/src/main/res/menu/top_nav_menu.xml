@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_back"
+        android:icon="@drawable/ic_baseline_arrow_back_24"
+        android:title="Back" />
+    <item
+        android:id="@+id/menu_item_complete_list"
+        android:title="Complete list" />
+    <item
+        android:id="@+id/menu_item_genre"
+        android:title="Genres" />
+
+</menu>

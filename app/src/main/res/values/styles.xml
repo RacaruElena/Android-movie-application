@@ -1,0 +1,49 @@
+<resources>
+
+    <style name="button_bg" >
+        <item name="android:background">@drawable/background_btn</item>
+    </style>
+
+    <style name="button_statistics" >
+        <item name="android:background">@drawable/statistics_btn</item>
+    </style>
+
+    <style name="button_login" >
+        <item name="android:background">@drawable/button_wh_normal</item>
+    </style>
+
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:colorForeground">@color/white</item>
+    </style>
+
+    <style name="ActionBarTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/teal_200</item>
+        <item name="android:colorForeground">@color/white</item>
+    </style>
+
+<!--    <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">-->
+<!--        <item name="boxStrokeColor">#FFEB3B</item>-->
+<!--        <item name="boxStrokeWidth">2dp</item>-->
+<!--    </style>-->
+
+
+
+    <color name="actionbar_bg_wh">#E7BAEF</color>
+    <color name="actionbar_text_color">#F1E7E6</color>
+
+    <style name="action_bar_wh" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+
+        <item name="background">@color/actionbar_bg_wh</item>
+        <item name="android:actionMenuTextColor">@color/actionbar_text_color</item>
+    </style>
+
+
+
+
+
+</resources>
